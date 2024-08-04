@@ -28,4 +28,3 @@ You can play the game by following this link: [Tic-Tac-Toe Game](https://abdelra
 
 ##Contact
 If you have any questions, feel free to contact me at: [bdalrhmnfthy000@gmail.com]
-LinkedIn
